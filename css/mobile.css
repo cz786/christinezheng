@@ -82,6 +82,7 @@ article summary {
 
 #date {
 	font-style: italic;
+	margin-left: 0px;
 }
 
 p > span {
